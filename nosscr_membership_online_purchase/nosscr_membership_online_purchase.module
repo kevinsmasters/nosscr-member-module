@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the NOSSCR Membership Online Purchase feature.
+ */
+
+include_once 'nosscr_membership_online_purchase.features.inc';
